@@ -4,7 +4,9 @@ const fs = require('node:fs');
 const server = http.createServer((req, res) => {
 
     if (req.url === '/about') {
-        res.end(fs.readFile('about.html'));
+        res.end(fs.readFile('about.html', (err, DataTransfer) => {
+            
+        }));
     }
     
 
