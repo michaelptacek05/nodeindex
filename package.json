@@ -1,0 +1,12 @@
+{
+  "name": "nodeindex",
+  "version": "1.0.0",
+  "description": "learning nodejs subpages",
+  "license": "ISC",
+  "author": "michael ptacek",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
