@@ -1,6 +1,6 @@
 # Basic Informational Site
 
-A simple Node.js web server created as a project for [The Odin Project]([https://www.theodinproject.com/](https://www.theodinproject.com/lessons/nodejs-basic-informational-site). 
+A simple Node.js web server created as a project for [The Odin Project](https://www.theodinproject.com/lessons/nodejs-basic-informational-site/). 
 It serves basic HTML pages (`/`, `/about`, `/contact-me`) and a 404 error page using native Node.js modules (`http` and `fs`).
 
 ## How to run
